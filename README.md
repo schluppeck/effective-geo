@@ -6,3 +6,6 @@ simple test of using `docker` container to produce self-contained `html/js` map 
 
 uses `rlang` #rstats bindings for `leaflet`
 
+![snap of png image](snap.png)
+
+[go to html preview](https://htmlpreview.github.io/?https://github.com/schluppeck/effective-geo/blob/master/map1.html)
